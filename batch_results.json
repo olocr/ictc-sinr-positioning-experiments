@@ -1,0 +1,1362 @@
+{
+  "summary": {
+    "total": 46,
+    "failed": 3,
+    "mean_error_m": 316.9,
+    "rmse_m": 377.6,
+    "min_error_m": 12.1,
+    "max_error_m": 889.5
+  },
+  "results": [
+    {
+      "ue_id": "1",
+      "estimated_x": 2000.0,
+      "estimated_y": 2000.0,
+      "actual_x": 2011.63,
+      "actual_y": 1996.56,
+      "error_m": 12.1,
+      "cells_used": [
+        {
+          "cell_id": "2",
+          "sinr_db": 76.3
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -2.2
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -2.62
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -7.27
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -8.87
+        }
+      ]
+    },
+    {
+      "ue_id": "3",
+      "estimated_x": 1415.17,
+      "estimated_y": 1915.84,
+      "actual_x": 1358.79,
+      "actual_y": 1531.34,
+      "error_m": 388.6,
+      "cells_used": [
+        {
+          "cell_id": "6",
+          "sinr_db": 3.3
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": 0.33
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -6.43
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -9.23
+        }
+      ]
+    },
+    {
+      "ue_id": "4",
+      "estimated_x": 1586.97,
+      "estimated_y": 1458.76,
+      "actual_x": 1628.98,
+      "actual_y": 1882.93,
+      "error_m": 426.2,
+      "cells_used": [
+        {
+          "cell_id": "7",
+          "sinr_db": 2.38
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -3.11
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -7.98
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -9.59
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -14.66
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -18.4
+        }
+      ]
+    },
+    {
+      "ue_id": "5",
+      "estimated_x": 1333.98,
+      "estimated_y": 2138.26,
+      "actual_x": 1477.12,
+      "actual_y": 2212.02,
+      "error_m": 161.0,
+      "cells_used": [
+        {
+          "cell_id": "6",
+          "sinr_db": 0.56
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -4.95
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -8.07
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -9.17
+        }
+      ]
+    },
+    {
+      "ue_id": "6",
+      "estimated_x": 2858.63,
+      "estimated_y": 2008.42,
+      "actual_x": 2629.55,
+      "actual_y": 2055.64,
+      "error_m": 233.9,
+      "cells_used": [
+        {
+          "cell_id": "3",
+          "sinr_db": 3.39
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -5.04
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -18.93
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -19.28
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -19.95
+        }
+      ]
+    },
+    {
+      "ue_id": "7",
+      "estimated_x": 1232.09,
+      "estimated_y": 2296.34,
+      "actual_x": 1637.33,
+      "actual_y": 2515.16,
+      "error_m": 460.5,
+      "cells_used": [
+        {
+          "cell_id": "6",
+          "sinr_db": 2.58
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -0.45
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -10.13
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -15.02
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -18.02
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -18.12
+        }
+      ]
+    },
+    {
+      "ue_id": "8",
+      "estimated_x": 1999.46,
+      "estimated_y": 1999.91,
+      "actual_x": 2221.08,
+      "actual_y": 2090.16,
+      "error_m": 239.3,
+      "cells_used": [
+        {
+          "cell_id": "2",
+          "sinr_db": 19.25
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -8.74
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -11.6
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -16.34
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -18.48
+        }
+      ]
+    },
+    {
+      "ue_id": "9",
+      "estimated_x": 1428.39,
+      "estimated_y": 2689.82,
+      "actual_x": 1397.96,
+      "actual_y": 2590.58,
+      "error_m": 103.8,
+      "cells_used": [
+        {
+          "cell_id": "5",
+          "sinr_db": -1.37
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -8.46
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -18.55
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -18.82
+        }
+      ]
+    },
+    {
+      "ue_id": "10",
+      "estimated_x": 2892.93,
+      "estimated_y": 1984.59,
+      "actual_x": 2387.57,
+      "actual_y": 1503.87,
+      "error_m": 697.5,
+      "cells_used": [
+        {
+          "cell_id": "3",
+          "sinr_db": 9.63
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -0.3
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -8.18
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -14.99
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -16.2
+        }
+      ]
+    },
+    {
+      "ue_id": "11",
+      "estimated_x": 1258.88,
+      "estimated_y": 1668.09,
+      "actual_x": 1359.82,
+      "actual_y": 1647.77,
+      "error_m": 103.0,
+      "cells_used": [
+        {
+          "cell_id": "6",
+          "sinr_db": -3.99
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -5.99
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -15.04
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -18.06
+        }
+      ]
+    },
+    {
+      "ue_id": "12",
+      "estimated_x": 2186.23,
+      "estimated_y": 2243.68,
+      "actual_x": 2307.0,
+      "actual_y": 2197.26,
+      "error_m": 129.4,
+      "cells_used": [
+        {
+          "cell_id": "2",
+          "sinr_db": 1.11
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": 0.04
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -5.25
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -9.65
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -11.14
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -18.57
+        }
+      ]
+    },
+    {
+      "ue_id": "13",
+      "estimated_x": 1631.63,
+      "estimated_y": 2524.26,
+      "actual_x": 1455.06,
+      "actual_y": 2574.61,
+      "error_m": 183.6,
+      "cells_used": [
+        {
+          "cell_id": "5",
+          "sinr_db": 0.24
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -2.95
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -5.56
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -8.32
+        }
+      ]
+    },
+    {
+      "ue_id": "14",
+      "estimated_x": 2132.17,
+      "estimated_y": 1865.44,
+      "actual_x": 2209.65,
+      "actual_y": 2303.53,
+      "error_m": 444.9,
+      "cells_used": [
+        {
+          "cell_id": "2",
+          "sinr_db": -0.4
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -6.74
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -11.8
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -16.33
+        }
+      ]
+    },
+    {
+      "ue_id": "15",
+      "estimated_x": 1745.49,
+      "estimated_y": 2429.82,
+      "actual_x": 1618.42,
+      "actual_y": 2476.99,
+      "error_m": 135.5,
+      "cells_used": [
+        {
+          "cell_id": "5",
+          "sinr_db": -1.33
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -1.48
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -1.66
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -1.69
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -18.67
+        }
+      ]
+    },
+    {
+      "ue_id": "16",
+      "estimated_x": 1631.95,
+      "estimated_y": 2620.88,
+      "actual_x": 1587.98,
+      "actual_y": 2467.88,
+      "error_m": 159.2,
+      "cells_used": [
+        {
+          "cell_id": "5",
+          "sinr_db": -1.12
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -5.52
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -19.92
+        }
+      ]
+    },
+    {
+      "ue_id": "17",
+      "estimated_x": 2262.95,
+      "estimated_y": 1427.26,
+      "actual_x": 2657.85,
+      "actual_y": 1515.84,
+      "error_m": 404.7,
+      "cells_used": [
+        {
+          "cell_id": "8",
+          "sinr_db": -5.76
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -8.76
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -9.67
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -13.98
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -17.76
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -18.51
+        }
+      ]
+    },
+    {
+      "ue_id": "18",
+      "estimated_x": 1879.19,
+      "estimated_y": 2571.81,
+      "actual_x": 2135.23,
+      "actual_y": 2422.1,
+      "error_m": 296.6,
+      "cells_used": [
+        {
+          "cell_id": "5",
+          "sinr_db": 0.58
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -3.01
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -6.62
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -6.81
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -11.65
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -16.93
+        }
+      ]
+    },
+    {
+      "ue_id": "19",
+      "estimated_x": 2203.96,
+      "estimated_y": 1650.95,
+      "actual_x": 2147.2,
+      "actual_y": 1551.19,
+      "error_m": 114.8,
+      "cells_used": [
+        {
+          "cell_id": "8",
+          "sinr_db": -0.01
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -2.59
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -2.73
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -4.22
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -4.28
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -16.28
+        }
+      ]
+    },
+    {
+      "ue_id": "21",
+      "estimated_x": 1213.38,
+      "estimated_y": 2110.2,
+      "actual_x": 1664.63,
+      "actual_y": 1768.9,
+      "error_m": 565.8,
+      "cells_used": [
+        {
+          "cell_id": "6",
+          "sinr_db": 9.58
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": 2.44
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": 0.99
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -6.79
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -11.25
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -14.71
+        }
+      ]
+    },
+    {
+      "ue_id": "22",
+      "estimated_x": 1762.68,
+      "estimated_y": 2144.27,
+      "actual_x": 2527.67,
+      "actual_y": 2231.43,
+      "error_m": 769.9,
+      "cells_used": [
+        {
+          "cell_id": "6",
+          "sinr_db": -7.04
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -8.75
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -11.64
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -11.66
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -13.34
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -16.05
+        }
+      ]
+    },
+    {
+      "ue_id": "23",
+      "estimated_x": 1514.58,
+      "estimated_y": 1164.62,
+      "actual_x": 1450.3,
+      "actual_y": 1251.45,
+      "error_m": 108.0,
+      "cells_used": [
+        {
+          "cell_id": "7",
+          "sinr_db": 14.66
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -4.41
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -4.7
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -8.77
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -9.32
+        }
+      ]
+    },
+    {
+      "ue_id": "25",
+      "estimated_x": 2464.3,
+      "estimated_y": 1137.1,
+      "actual_x": 2249.91,
+      "actual_y": 1029.14,
+      "error_m": 240.0,
+      "cells_used": [
+        {
+          "cell_id": "8",
+          "sinr_db": 8.48
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -6.25
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -18.15
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -19.63
+        }
+      ]
+    },
+    {
+      "ue_id": "26",
+      "estimated_x": 2544.22,
+      "estimated_y": 1241.61,
+      "actual_x": 2605.62,
+      "actual_y": 1393.79,
+      "error_m": 164.1,
+      "cells_used": [
+        {
+          "cell_id": "8",
+          "sinr_db": -0.93
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -10.09
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -17.82
+        }
+      ]
+    },
+    {
+      "ue_id": "27",
+      "estimated_x": 2559.19,
+      "estimated_y": 1926.63,
+      "actual_x": 2476.97,
+      "actual_y": 1904.41,
+      "error_m": 85.2,
+      "cells_used": [
+        {
+          "cell_id": "3",
+          "sinr_db": 2.95
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -4.23
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -7.26
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -8.56
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -12.47
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -19.32
+        }
+      ]
+    },
+    {
+      "ue_id": "28",
+      "estimated_x": 2055.87,
+      "estimated_y": 1890.04,
+      "actual_x": 2117.03,
+      "actual_y": 1260.88,
+      "error_m": 632.1,
+      "cells_used": [
+        {
+          "cell_id": "2",
+          "sinr_db": -11.16
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -11.57
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -13.12
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -13.31
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -14.61
+        }
+      ]
+    },
+    {
+      "ue_id": "29",
+      "estimated_x": 1534.5,
+      "estimated_y": 1183.17,
+      "actual_x": 1646.25,
+      "actual_y": 1514.64,
+      "error_m": 349.8,
+      "cells_used": [
+        {
+          "cell_id": "7",
+          "sinr_db": 3.3
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -9.41
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -15.23
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -17.97
+        }
+      ]
+    },
+    {
+      "ue_id": "30",
+      "estimated_x": 2297.33,
+      "estimated_y": 2000.0,
+      "actual_x": 1788.49,
+      "actual_y": 1716.09,
+      "error_m": 582.7,
+      "cells_used": [
+        {
+          "cell_id": "2",
+          "sinr_db": -6.41
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -9.29
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -19.44
+        }
+      ]
+    },
+    {
+      "ue_id": "31",
+      "estimated_x": 2388.72,
+      "estimated_y": 2347.35,
+      "actual_x": 2461.75,
+      "actual_y": 2139.46,
+      "error_m": 220.3,
+      "cells_used": [
+        {
+          "cell_id": "4",
+          "sinr_db": -5.91
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -6.01
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -8.13
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -12.73
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -13.56
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -14.22
+        }
+      ]
+    },
+    {
+      "ue_id": "32",
+      "estimated_x": 1438.42,
+      "estimated_y": 2297.73,
+      "actual_x": 2071.21,
+      "actual_y": 2922.79,
+      "error_m": 889.5,
+      "cells_used": [
+        {
+          "cell_id": "6",
+          "sinr_db": -8.63
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -12.54
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -17.92
+        }
+      ]
+    },
+    {
+      "ue_id": "33",
+      "estimated_x": 2716.56,
+      "estimated_y": 2218.08,
+      "actual_x": 2586.11,
+      "actual_y": 2610.08,
+      "error_m": 413.1,
+      "cells_used": [
+        {
+          "cell_id": "3",
+          "sinr_db": -1.68
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -5.33
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -9.81
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -16.48
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -18.92
+        }
+      ]
+    },
+    {
+      "ue_id": "34",
+      "estimated_x": 1498.06,
+      "estimated_y": 2832.78,
+      "actual_x": 1471.48,
+      "actual_y": 2444.97,
+      "error_m": 388.7,
+      "cells_used": [
+        {
+          "cell_id": "5",
+          "sinr_db": 10.04
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -6.55
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -9.3
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -15.02
+        }
+      ]
+    },
+    {
+      "ue_id": "35",
+      "estimated_x": 2395.39,
+      "estimated_y": 1318.21,
+      "actual_x": 1999.65,
+      "actual_y": 1363.43,
+      "error_m": 398.3,
+      "cells_used": [
+        {
+          "cell_id": "8",
+          "sinr_db": -0.59
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -7.33
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -8.01
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -15.39
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -16.68
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -17.47
+        }
+      ]
+    },
+    {
+      "ue_id": "36",
+      "estimated_x": 2515.79,
+      "estimated_y": 2743.62,
+      "actual_x": 2049.77,
+      "actual_y": 2990.36,
+      "error_m": 527.3,
+      "cells_used": [
+        {
+          "cell_id": "4",
+          "sinr_db": -0.88
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -11.57
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -15.03
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -16.98
+        }
+      ]
+    },
+    {
+      "ue_id": "37",
+      "estimated_x": 2084.98,
+      "estimated_y": 1962.05,
+      "actual_x": 2542.46,
+      "actual_y": 1947.12,
+      "error_m": 457.7,
+      "cells_used": [
+        {
+          "cell_id": "2",
+          "sinr_db": 4.41
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -6.48
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -8.76
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -15.95
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -17.02
+        }
+      ]
+    },
+    {
+      "ue_id": "38",
+      "estimated_x": 1831.58,
+      "estimated_y": 1958.66,
+      "actual_x": 2028.38,
+      "actual_y": 1678.57,
+      "error_m": 342.3,
+      "cells_used": [
+        {
+          "cell_id": "2",
+          "sinr_db": 6.08
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": 3.25
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -1.06
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -5.62
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -11.31
+        }
+      ]
+    },
+    {
+      "ue_id": "39",
+      "estimated_x": 2069.88,
+      "estimated_y": 2679.22,
+      "actual_x": 2701.95,
+      "actual_y": 2365.12,
+      "error_m": 705.8,
+      "cells_used": [
+        {
+          "cell_id": "4",
+          "sinr_db": -3.16
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -4.27
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -8.16
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -12.82
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -15.15
+        }
+      ]
+    },
+    {
+      "ue_id": "40",
+      "estimated_x": 2500.0,
+      "estimated_y": 1134.0,
+      "actual_x": 2549.94,
+      "actual_y": 1108.19,
+      "error_m": 56.2,
+      "cells_used": [
+        {
+          "cell_id": "8",
+          "sinr_db": 45.29
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -12.83
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -14.1
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -15.87
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -15.9
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -17.93
+        }
+      ]
+    },
+    {
+      "ue_id": "41",
+      "estimated_x": 2835.95,
+      "estimated_y": 1792.75,
+      "actual_x": 2585.37,
+      "actual_y": 1640.77,
+      "error_m": 293.1,
+      "cells_used": [
+        {
+          "cell_id": "3",
+          "sinr_db": 3.97
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -1.1
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -10.63
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -12.63
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -19.54
+        }
+      ]
+    },
+    {
+      "ue_id": "42",
+      "estimated_x": 2935.34,
+      "estimated_y": 2015.82,
+      "actual_x": 2927.09,
+      "actual_y": 2186.96,
+      "error_m": 171.3,
+      "cells_used": [
+        {
+          "cell_id": "3",
+          "sinr_db": 9.18
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -4.85
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -6.05
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -10.72
+        }
+      ]
+    },
+    {
+      "ue_id": "43",
+      "estimated_x": 2193.95,
+      "estimated_y": 2444.56,
+      "actual_x": 2016.11,
+      "actual_y": 2175.82,
+      "error_m": 322.3,
+      "cells_used": [
+        {
+          "cell_id": "4",
+          "sinr_db": 3.75
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": 3.61
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -6.26
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -9.31
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -16.09
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -19.19
+        }
+      ]
+    },
+    {
+      "ue_id": "44",
+      "estimated_x": 1507.16,
+      "estimated_y": 1163.44,
+      "actual_x": 1208.51,
+      "actual_y": 1316.9,
+      "error_m": 335.8,
+      "cells_used": [
+        {
+          "cell_id": "7",
+          "sinr_db": 6.92
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -9.02
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -12.36
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -14.73
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -17.84
+        }
+      ]
+    },
+    {
+      "ue_id": "45",
+      "estimated_x": 1994.64,
+      "estimated_y": 2001.62,
+      "actual_x": 1972.77,
+      "actual_y": 2097.06,
+      "error_m": 97.9,
+      "cells_used": [
+        {
+          "cell_id": "2",
+          "sinr_db": 17.47
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -6.05
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -9.17
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": -17.94
+        }
+      ]
+    },
+    {
+      "ue_id": "46",
+      "estimated_x": 2093.92,
+      "estimated_y": 1813.86,
+      "actual_x": 2292.52,
+      "actual_y": 1744.36,
+      "error_m": 210.4,
+      "cells_used": [
+        {
+          "cell_id": "2",
+          "sinr_db": 9.58
+        },
+        {
+          "cell_id": "8",
+          "sinr_db": 3.77
+        },
+        {
+          "cell_id": "7",
+          "sinr_db": -6.98
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -13.81
+        },
+        {
+          "cell_id": "3",
+          "sinr_db": -16.44
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -17.35
+        }
+      ]
+    },
+    {
+      "ue_id": "47",
+      "estimated_x": 1999.67,
+      "estimated_y": 2029.21,
+      "actual_x": 1982.78,
+      "actual_y": 2258.63,
+      "error_m": 230.0,
+      "cells_used": [
+        {
+          "cell_id": "2",
+          "sinr_db": 10.71
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -5.62
+        },
+        {
+          "cell_id": "5",
+          "sinr_db": -8.56
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -11.45
+        }
+      ]
+    },
+    {
+      "ue_id": "48",
+      "estimated_x": 2953.15,
+      "estimated_y": 2000.0,
+      "actual_x": 2976.47,
+      "actual_y": 1925.98,
+      "error_m": 77.6,
+      "cells_used": [
+        {
+          "cell_id": "3",
+          "sinr_db": 6.1
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -7.52
+        },
+        {
+          "cell_id": "6",
+          "sinr_db": -19.48
+        }
+      ]
+    },
+    {
+      "ue_id": "49",
+      "estimated_x": 2893.08,
+      "estimated_y": 2091.27,
+      "actual_x": 2673.8,
+      "actual_y": 2206.02,
+      "error_m": 247.5,
+      "cells_used": [
+        {
+          "cell_id": "3",
+          "sinr_db": 3.39
+        },
+        {
+          "cell_id": "4",
+          "sinr_db": -5.63
+        },
+        {
+          "cell_id": "2",
+          "sinr_db": -8.51
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "ue_id": "2",
+      "reason": "셀 수 부족 (확보: 2개)"
+    },
+    {
+      "ue_id": "20",
+      "reason": "셀 수 부족 (확보: 2개)"
+    },
+    {
+      "ue_id": "24",
+      "reason": "셀 수 부족 (확보: 2개)"
+    }
+  ]
+}

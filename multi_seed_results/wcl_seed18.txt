@@ -1,0 +1,61 @@
+Baseline (단순 centroid) vs WCL 비교
+======================================================================
+UE   1: simple= 607.4m, WCL= 965.2m, 개선= -357.8m
+UE   2: simple= 671.8m, WCL= 334.1m, 개선= +337.6m
+UE   3: simple= 228.9m, WCL= 314.1m, 개선=  -85.1m
+UE   4: simple= 203.8m, WCL= 262.4m, 개선=  -58.6m
+UE   5: simple= 492.7m, WCL= 327.3m, 개선= +165.4m
+UE   6: simple= 451.4m, WCL= 541.9m, 개선=  -90.6m
+UE   7: simple= 482.6m, WCL= 222.3m, 개선= +260.3m
+UE   8: simple= 116.7m, WCL= 195.2m, 개선=  -78.5m
+UE   9: simple= 398.4m, WCL= 445.9m, 개선=  -47.5m
+UE  10: simple= 588.3m, WCL= 116.3m, 개선= +472.0m
+UE  11: simple= 154.4m, WCL= 203.5m, 개선=  -49.1m
+UE  12: simple= 419.4m, WCL= 310.1m, 개선= +109.3m
+UE  13: simple= 258.4m, WCL= 325.8m, 개선=  -67.4m
+UE  14: simple= 733.1m, WCL= 510.0m, 개선= +223.1m
+UE  15: simple= 358.9m, WCL= 408.2m, 개선=  -49.3m
+UE  16: simple= 253.7m, WCL= 482.7m, 개선= -228.9m
+UE  17: simple= 566.5m, WCL= 306.3m, 개선= +260.2m
+UE  18: simple= 261.7m, WCL= 354.4m, 개선=  -92.7m
+UE  19: simple= 352.6m, WCL= 153.8m, 개선= +198.8m
+UE  20: simple= 732.1m, WCL= 189.8m, 개선= +542.3m
+UE  21: simple= 484.6m, WCL= 255.1m, 개선= +229.5m
+UE  22: simple= 478.5m, WCL= 414.2m, 개선=  +64.3m
+UE  23: simple= 134.7m, WCL= 529.6m, 개선= -395.0m
+UE  24: simple= 340.5m, WCL= 158.3m, 개선= +182.2m
+UE  25: simple= 822.3m, WCL= 352.1m, 개선= +470.3m
+UE  26: simple= 393.2m, WCL=  55.4m, 개선= +337.8m
+UE  27: simple= 512.2m, WCL=  65.1m, 개선= +447.1m
+UE  28: simple= 445.0m, WCL= 274.4m, 개선= +170.6m
+UE  29: simple= 537.4m, WCL=  46.6m, 개선= +490.8m
+UE  30: simple= 396.6m, WCL= 447.4m, 개선=  -50.8m
+UE  31: simple= 700.9m, WCL= 400.3m, 개선= +300.7m
+UE  32: simple= 553.6m, WCL= 352.5m, 개선= +201.1m
+UE  33: simple= 460.0m, WCL= 124.6m, 개선= +335.4m
+UE  34: simple= 437.4m, WCL= 265.9m, 개선= +171.5m
+UE  35: simple= 628.7m, WCL= 183.9m, 개선= +444.8m
+UE  36: simple= 415.4m, WCL=  88.2m, 개선= +327.2m
+UE  37: simple= 322.1m, WCL= 169.6m, 개선= +152.5m
+UE  38: simple= 339.2m, WCL=  42.1m, 개선= +297.1m
+UE  39: simple= 597.1m, WCL= 596.0m, 개선=   +1.1m
+UE  40: simple= 831.0m, WCL= 362.4m, 개선= +468.5m
+UE  41: simple= 526.9m, WCL= 156.7m, 개선= +370.3m
+UE  42: simple= 206.5m, WCL= 147.5m, 개선=  +59.0m
+UE  43: simple= 121.1m, WCL= 121.2m, 개선=   -0.2m
+UE  44: simple= 787.7m, WCL= 205.3m, 개선= +582.4m
+UE  45: simple= 129.6m, WCL= 215.3m, 개선=  -85.7m
+UE  46: simple= 354.0m, WCL= 301.2m, 개선=  +52.8m
+UE  47: simple= 748.9m, WCL= 257.6m, 개선= +491.2m
+UE  48: simple= 591.9m, WCL= 162.1m, 개선= +429.7m
+UE  49: simple= 171.3m, WCL= 112.8m, 개선=  +58.6m
+
+======================================================================
+              method    count       mean       RMSE
+------------------------------------------------------------
+         단순 centroid       49      444.9      485.8
+            WCL (제안)       49      282.3      329.5
+
+평균 오차 개선율: 36.6%
+
+---STDERR---

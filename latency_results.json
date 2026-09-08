@@ -1,0 +1,363 @@
+{
+  "summary": {
+    "n_queries": 50,
+    "n_success": 50,
+    "mean_sec": 16.391,
+    "median_sec": 14.144,
+    "min_sec": 7.809,
+    "max_sec": 37.848,
+    "p95_sec": 30.357
+  },
+  "records": [
+    {
+      "query": "UE 5의 추정 위치와 실제 위치를 비교하고 처리량도 알려줘",
+      "elapsed_sec": 36.302,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 5의 추정 위치는 (1640.18, 2029.77)이고 실제 위치는 (1477.12, 2212.02)입니다. 두 위치 간의 오차는 약 24"
+    },
+    {
+      "query": "UE 47 처리량 알려줘",
+      "elapsed_sec": 12.899,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 47의 처리량은 1.643 Mbps입니다."
+    },
+    {
+      "query": "UE 27 처리량 알려줘",
+      "elapsed_sec": 11.695,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 27의 처리량은 17.748 Mbps입니다."
+    },
+    {
+      "query": "UE 28 처리량 알려줘",
+      "elapsed_sec": 12.859,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 28의 처리량은 11.515 Mbps입니다."
+    },
+    {
+      "query": "UE 25의 추정 위치를 알려줘",
+      "elapsed_sec": 14.118,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 25의 추정 위치는 (x: 2437.74m, y: 1137.29m)입니다."
+    },
+    {
+      "query": "UE 45의 추정 위치와 실제 위치를 비교하고 처리량도 알려줘",
+      "elapsed_sec": 14.618,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 45의 추정 위치와 실제 위치 사이의 거리는 약 99m이며, 처리량은 평균 1.852Mbps입니다."
+    },
+    {
+      "query": "UE 9 위치 비교하고 셀 3 연결 수도 알려줘",
+      "elapsed_sec": 22.334,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 9의 실제 위치와 추정된 위치를 비교한 결과, 오차가 약 219.2m 발생하였습니다. 또한 셀 3의 평균 연결 수는 8.77개입니다."
+    },
+    {
+      "query": "UE 18 estimate position",
+      "elapsed_sec": 13.869,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 18의 추정 위치는 (x: 2112.52m, y: 2235.14m)입니다."
+    },
+    {
+      "query": "UE 4의 추정 위치와 실제 위치를 비교하고 처리량도 알려줘",
+      "elapsed_sec": 17.361,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 4의 추정 위치와 실제 위치의 차이는 약 245m이며, 처리량은 평균 1.205Mbps입니다."
+    },
+    {
+      "query": "UE 10의 추정 위치를 알려줘",
+      "elapsed_sec": 13.081,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 10의 추정 위치는 (x: 2117.14m, y: 1951.88m) 입니다."
+    },
+    {
+      "query": "UE 17의 오차와 처리량을 같이 알려줘",
+      "elapsed_sec": 15.166,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 17의 위치 오차는 242.9m이며, 다운링크 처리량은 5.304Mbps입니다."
+    },
+    {
+      "query": "UE 38 estimate position",
+      "elapsed_sec": 12.955,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 38의 추정 위치는 x: 2017.31m, y: 1733.84m입니다."
+    },
+    {
+      "query": "UE 33의 추정 위치를 알려줘",
+      "elapsed_sec": 15.093,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 33의 추정 위치는 x 좌표가 2505.59m, y 좌표가 2853.27m입니다."
+    },
+    {
+      "query": "UE 20 처리량 알려줘",
+      "elapsed_sec": 10.854,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 20의 처리량은 2.291 Mbps입니다."
+    },
+    {
+      "query": "UE 13의 오차와 처리량을 같이 알려줘",
+      "elapsed_sec": 16.763,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 13의 위치 오차는 129.1m이고, 다운링크 처리량은 10.212 Mbps 입니다."
+    },
+    {
+      "query": "UE 19 위치 비교하고 셀 8 연결 수도 알려줘",
+      "elapsed_sec": 32.062,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 19의 실제 위치와 추정된 위치를 비교한 결과, 오차가 발생하였습니다. 그리고 셀 8의 평균 연결 수는 약 4.89입니다."
+    },
+    {
+      "query": "UE 22의 실제 위치는?",
+      "elapsed_sec": 14.17,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 22의 실제 위치는 x 좌표가 2527.67m, y 좌표가 2231.43m입니다."
+    },
+    {
+      "query": "UE 49의 추정 위치를 알려줘",
+      "elapsed_sec": 11.707,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 49의 추정 위치는 (x: 2954.97m, y: 2020.16m) 입니다."
+    },
+    {
+      "query": "UE 41의 오차와 처리량을 같이 알려줘",
+      "elapsed_sec": 26.37,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 41의 위치 오차는 168.4m이고, 다운링크 처리량은 3.874 Mbps 입니다."
+    },
+    {
+      "query": "UE 3의 추정 위치를 알려줘",
+      "elapsed_sec": 11.157,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 3의 추정 위치는 x: 1093.89m, y: 1904.45m 입니다."
+    },
+    {
+      "query": "UE 39의 오차와 처리량을 같이 알려줘",
+      "elapsed_sec": 15.41,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 39의 위치 오차는 약 134.4m이고, 다운링크 처리량은 평균 6.581Mbps입니다."
+    },
+    {
+      "query": "UE 21의 실제 위치는?",
+      "elapsed_sec": 9.459,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 21의 실제 위치는 (x: 1664.63, y: 1768.9)입니다."
+    },
+    {
+      "query": "UE 31의 추정 위치와 실제 위치를 비교하고 처리량도 알려줘",
+      "elapsed_sec": 15.411,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 31의 추정 위치와 실제 위치 차이는 약 106.5m이며, 이 UE의 처리량은 평균 7.17Mbps입니다."
+    },
+    {
+      "query": "UE 37의 위치 비교와 셀 4 연결 수를 같이 알려줘",
+      "elapsed_sec": 28.727,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 37의 실제 위치와 추정 위치를 비교한 결과, 실제 위치가 (x: 2542.46, y: 1947.12)이고 추정 위치는 (x: 2193.3"
+    },
+    {
+      "query": "UE 29의 추정 위치와 실제 위치를 비교하고 처리량도 알려줘",
+      "elapsed_sec": 28.517,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 29의 추정 위치와 실제 위치를 비교한 결과, 추정 위치가 (1525.43m, 1204.68m)이고 실제 위치는 (1646.25m, 151"
+    },
+    {
+      "query": "UE 11 위치 비교하고 셀 7 연결 수도 알려줘",
+      "elapsed_sec": 37.848,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 11의 실제 위치와 추정된 위치를 비교한 결과, 실제 위치는 (x: 1359.82, y: 1647.77)이고 추정된 위치는 (x: 1142"
+    },
+    {
+      "query": "UE 40의 위치 비교와 셀 5 연결 수를 같이 알려줘",
+      "elapsed_sec": 22.94,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 40의 실제 위치는 (x: 2549.94, y: 1108.19)이고 추정 위치는 (x: 2500.0, y: 1134.0)이며 오차가 약 5"
+    },
+    {
+      "query": "UE 34의 추정 위치를 알려줘",
+      "elapsed_sec": 12.101,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 34의 추정 위치는 (x: 1402.15, y: 2499.75)입니다."
+    },
+    {
+      "query": "UE 42의 실제 위치는?",
+      "elapsed_sec": 9.109,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 42의 실제 위치는 X: 2927.09, Y: 2186.96입니다."
+    },
+    {
+      "query": "UE 35 위치 비교하고 셀 5 연결 수도 알려줘",
+      "elapsed_sec": 20.62,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 35의 실제 위치와 추정 위치를 비교한 결과, 실제 위치가 더 정확합니다. 또한 셀 5의 평균 연결 수는 7.71입니다."
+    },
+    {
+      "query": "UE 26 위치 비교하고 셀 2 연결 수도 알려줘",
+      "elapsed_sec": 22.97,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 26의 실제 위치와 추정 위치를 비교한 결과 오차가 206.7m로 큰 편이며, 셀 2의 현재 평균 연결 수는 16.5명입니다."
+    },
+    {
+      "query": "UE 46의 위치 비교와 셀 6 연결 수를 같이 알려줘",
+      "elapsed_sec": 25.26,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 46의 실제 위치와 추정 위치를 비교한 결과, 실제 위치가 (2292.52, 1744.36)이고 추정 위치는 (2146.44, 1736.2"
+    },
+    {
+      "query": "UE 24의 위치 비교와 셀 2 연결 수를 같이 알려줘",
+      "elapsed_sec": 30.357,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 24의 실제 위치는 (x: 2749.71, y: 2549.38)이며 추정 위치는 (x: 2542.11, y: 2641.83)로 오차가 22"
+    },
+    {
+      "query": "UE 43의 위치 비교와 셀 7 연결 수를 같이 알려줘",
+      "elapsed_sec": 18.993,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 43의 실제 위치와 추정 위치를 비교한 결과, 오차는 약 161.1m로 확인되었습니다. 또한 셀 7의 평균 연결 수는 4.86개입니다."
+    },
+    {
+      "query": "UE 44 estimate position",
+      "elapsed_sec": 11.738,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 44의 추정 위치는 (x: 1513.85m, y: 1188.12m)입니다."
+    },
+    {
+      "query": "UE 48의 추정 위치와 실제 위치를 비교하고 처리량도 알려줘",
+      "elapsed_sec": 14.481,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 48의 추정 위치와 실제 위치의 차이는 약 77.2m이며, 처리량은 평균 2.407 Mbps입니다."
+    },
+    {
+      "query": "UE 32의 오차와 처리량을 같이 알려줘",
+      "elapsed_sec": 10.841,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 32의 위치 오차는 155.7m이고, 다운링크 처리량은 약 11.594Mbps 입니다."
+    },
+    {
+      "query": "UE 12의 실제 위치는?",
+      "elapsed_sec": 8.776,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 12의 실제 위치는 X: 2307.0m, Y: 2197.26m입니다."
+    },
+    {
+      "query": "UE 15의 오차와 처리량을 같이 알려줘",
+      "elapsed_sec": 13.156,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 15의 위치 오차는 206.3m이고, 다운링크 처리량은 3.109 Mbps 입니다."
+    },
+    {
+      "query": "UE 6의 추정 위치와 실제 위치를 비교하고 처리량도 알려줘",
+      "elapsed_sec": 15.817,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 6의 추정 위치와 실제 위치를 비교한 결과, 추정 위치가 (x: 2797.6, y: 2003.78)이고 실제 위치는 (x: 2629.55,"
+    },
+    {
+      "query": "UE 30 estimate position",
+      "elapsed_sec": 12.268,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 30의 추정 위치는 x: 1906.45m, y: 1970.64m입니다."
+    },
+    {
+      "query": "UE 36 위치 비교하고 셀 4 연결 수도 알려줘",
+      "elapsed_sec": 16.703,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 36의 실제 위치는 (2049.77, 2990.36)이고 추정된 위치는 (2414.64, 2769.36)입니다. 셀 4에서 평균적으로 약 "
+    },
+    {
+      "query": "UE 2의 실제 위치는?",
+      "elapsed_sec": 10.661,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 2의 실제 위치는 (x: 2829.57, y: 2135.92)입니다."
+    },
+    {
+      "query": "UE 14의 추정 위치를 알려줘",
+      "elapsed_sec": 9.766,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 14의 추정 위치는 (x: 2052.17m, y: 2030.31m)입니다."
+    },
+    {
+      "query": "UE 48의 실제 위치는?",
+      "elapsed_sec": 8.756,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 48의 실제 위치는 X: 2976.47m, Y: 1925.98m입니다."
+    },
+    {
+      "query": "UE 1 처리량 알려줘",
+      "elapsed_sec": 7.857,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 1의 다운링크 처리량은 3.061 Mbps입니다."
+    },
+    {
+      "query": "UE 16 estimate position",
+      "elapsed_sec": 10.734,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 16의 추정 위치는 (x: 1488.22m, y: 2772.05m)입니다."
+    },
+    {
+      "query": "UE 7 estimate position",
+      "elapsed_sec": 11.6,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 7의 추정 위치는 (x: 1604.31, y: 2653.32) 입니다."
+    },
+    {
+      "query": "UE 8 처리량 알려줘",
+      "elapsed_sec": 7.809,
+      "success": true,
+      "n_steps": 2,
+      "answer_preview": "UE 8의 처리량은 1.446 Mbps입니다."
+    },
+    {
+      "query": "UE 23의 위치 비교와 셀 3 연결 수를 같이 알려줘",
+      "elapsed_sec": 15.417,
+      "success": true,
+      "n_steps": 3,
+      "answer_preview": "UE 23의 실제 위치는 (1450.3, 1251.45)이고 추정 위치는 (1501.68, 1135.95)로 오차가 126.4m입니다. 셀 3은"
+    }
+  ]
+}

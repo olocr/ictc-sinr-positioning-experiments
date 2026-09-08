@@ -1,0 +1,405 @@
+{
+  "summary": {
+    "total": 49,
+    "parse_failures": 0,
+    "mean_error_m": 767.0,
+    "rmse_m": 867.1,
+    "min_error_m": 96.7,
+    "max_error_m": 1542.9
+  },
+  "results": [
+    {
+      "ue_id": "1",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 2937.5,
+      "actual_y": 1703.55,
+      "error_m": 479.6
+    },
+    {
+      "ue_id": "2",
+      "estimated_x": 2500.0,
+      "estimated_y": 1866.0,
+      "actual_x": 2259.73,
+      "actual_y": 1277.84,
+      "error_m": 635.3
+    },
+    {
+      "ue_id": "3",
+      "estimated_x": 2500.0,
+      "estimated_y": 1600.0,
+      "actual_x": 1700.65,
+      "actual_y": 1146.12,
+      "error_m": 919.2
+    },
+    {
+      "ue_id": "4",
+      "estimated_x": 2300.0,
+      "estimated_y": 1900.0,
+      "actual_x": 2173.58,
+      "actual_y": 2007.56,
+      "error_m": 166.0
+    },
+    {
+      "ue_id": "5",
+      "estimated_x": 2499.0,
+      "estimated_y": 1998.0,
+      "actual_x": 2802.95,
+      "actual_y": 1407.36,
+      "error_m": 664.3
+    },
+    {
+      "ue_id": "6",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 2532.7,
+      "actual_y": 1802.6,
+      "error_m": 102.7
+    },
+    {
+      "ue_id": "7",
+      "estimated_x": 2500.0,
+      "estimated_y": 1986.0,
+      "actual_x": 2252.64,
+      "actual_y": 1803.29,
+      "error_m": 307.5
+    },
+    {
+      "ue_id": "8",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 1012.82,
+      "actual_y": 1917.66,
+      "error_m": 1487.3
+    },
+    {
+      "ue_id": "9",
+      "estimated_x": 2500.0,
+      "estimated_y": 1866.0,
+      "actual_x": 2083.33,
+      "actual_y": 2891.36,
+      "error_m": 1106.8
+    },
+    {
+      "ue_id": "10",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 2633.76,
+      "actual_y": 2058.53,
+      "error_m": 207.4
+    },
+    {
+      "ue_id": "11",
+      "estimated_x": 2500.0,
+      "estimated_y": 2000.0,
+      "actual_x": 1079.95,
+      "actual_y": 1713.82,
+      "error_m": 1448.6
+    },
+    {
+      "ue_id": "12",
+      "estimated_x": 2500.0,
+      "estimated_y": 1934.0,
+      "actual_x": 1550.75,
+      "actual_y": 2665.08,
+      "error_m": 1198.1
+    },
+    {
+      "ue_id": "13",
+      "estimated_x": 2498.5,
+      "estimated_y": 1967.0,
+      "actual_x": 2244.56,
+      "actual_y": 2423.4,
+      "error_m": 522.3
+    },
+    {
+      "ue_id": "14",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 2994.93,
+      "actual_y": 2359.65,
+      "error_m": 675.5
+    },
+    {
+      "ue_id": "15",
+      "estimated_x": 2498.0,
+      "estimated_y": 1936.0,
+      "actual_x": 2597.32,
+      "actual_y": 2826.62,
+      "error_m": 896.1
+    },
+    {
+      "ue_id": "16",
+      "estimated_x": 2500.0,
+      "estimated_y": 1934.0,
+      "actual_x": 2334.2,
+      "actual_y": 2742.24,
+      "error_m": 825.1
+    },
+    {
+      "ue_id": "17",
+      "estimated_x": 2500.0,
+      "estimated_y": 1866.0,
+      "actual_x": 2304.31,
+      "actual_y": 1409.24,
+      "error_m": 496.9
+    },
+    {
+      "ue_id": "18",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 2111.52,
+      "actual_y": 1682.67,
+      "error_m": 445.1
+    },
+    {
+      "ue_id": "19",
+      "estimated_x": 2438.5,
+      "estimated_y": 1769.0,
+      "actual_x": 2239.42,
+      "actual_y": 2437.43,
+      "error_m": 697.4
+    },
+    {
+      "ue_id": "20",
+      "estimated_x": 1750.0,
+      "estimated_y": 1900.0,
+      "actual_x": 1957.38,
+      "actual_y": 1673.72,
+      "error_m": 306.9
+    },
+    {
+      "ue_id": "21",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 1984.55,
+      "actual_y": 2087.28,
+      "error_m": 548.4
+    },
+    {
+      "ue_id": "22",
+      "estimated_x": 2499.5,
+      "estimated_y": 1999.5,
+      "actual_x": 2525.95,
+      "actual_y": 1851.41,
+      "error_m": 150.4
+    },
+    {
+      "ue_id": "23",
+      "estimated_x": 2495.0,
+      "estimated_y": 1866.0,
+      "actual_x": 2427.01,
+      "actual_y": 1934.83,
+      "error_m": 96.7
+    },
+    {
+      "ue_id": "24",
+      "estimated_x": 1750.0,
+      "estimated_y": 1966.0,
+      "actual_x": 1374.47,
+      "actual_y": 1157.25,
+      "error_m": 891.7
+    },
+    {
+      "ue_id": "25",
+      "estimated_x": 2500.0,
+      "estimated_y": 1934.0,
+      "actual_x": 1906.77,
+      "actual_y": 2294.55,
+      "error_m": 694.2
+    },
+    {
+      "ue_id": "26",
+      "estimated_x": 1750.0,
+      "estimated_y": 1900.0,
+      "actual_x": 1823.55,
+      "actual_y": 2219.8,
+      "error_m": 328.1
+    },
+    {
+      "ue_id": "27",
+      "estimated_x": 1650.0,
+      "estimated_y": 1984.0,
+      "actual_x": 1789.02,
+      "actual_y": 1370.28,
+      "error_m": 629.3
+    },
+    {
+      "ue_id": "28",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 1512.76,
+      "actual_y": 2786.25,
+      "error_m": 1326.7
+    },
+    {
+      "ue_id": "29",
+      "estimated_x": 1750.0,
+      "estimated_y": 1900.0,
+      "actual_x": 1349.85,
+      "actual_y": 2036.23,
+      "error_m": 422.7
+    },
+    {
+      "ue_id": "30",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 2559.24,
+      "actual_y": 2833.24,
+      "error_m": 935.1
+    },
+    {
+      "ue_id": "31",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 1635.38,
+      "actual_y": 2147.93,
+      "error_m": 899.5
+    },
+    {
+      "ue_id": "32",
+      "estimated_x": 1750.0,
+      "estimated_y": 1900.0,
+      "actual_x": 2290.4,
+      "actual_y": 1471.98,
+      "error_m": 689.4
+    },
+    {
+      "ue_id": "33",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 1827.0,
+      "actual_y": 2099.44,
+      "error_m": 701.9
+    },
+    {
+      "ue_id": "34",
+      "estimated_x": 2500.0,
+      "estimated_y": 1866.0,
+      "actual_x": 1255.71,
+      "actual_y": 1324.16,
+      "error_m": 1357.1
+    },
+    {
+      "ue_id": "35",
+      "estimated_x": 2490.0,
+      "estimated_y": 1980.0,
+      "actual_x": 1289.29,
+      "actual_y": 2532.17,
+      "error_m": 1321.6
+    },
+    {
+      "ue_id": "36",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 2714.7,
+      "actual_y": 1286.17,
+      "error_m": 650.3
+    },
+    {
+      "ue_id": "37",
+      "estimated_x": 2499.0,
+      "estimated_y": 1999.0,
+      "actual_x": 2021.1,
+      "actual_y": 1345.55,
+      "error_m": 809.6
+    },
+    {
+      "ue_id": "38",
+      "estimated_x": 2500.0,
+      "estimated_y": 1934.0,
+      "actual_x": 1087.45,
+      "actual_y": 2423.48,
+      "error_m": 1495.0
+    },
+    {
+      "ue_id": "39",
+      "estimated_x": 2400.0,
+      "estimated_y": 1600.0,
+      "actual_x": 2269.97,
+      "actual_y": 2418.42,
+      "error_m": 828.7
+    },
+    {
+      "ue_id": "40",
+      "estimated_x": 2500.0,
+      "estimated_y": 1866.0,
+      "actual_x": 2602.21,
+      "actual_y": 1570.57,
+      "error_m": 312.6
+    },
+    {
+      "ue_id": "41",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 1209.51,
+      "actual_y": 1485.62,
+      "error_m": 1355.4
+    },
+    {
+      "ue_id": "42",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 2068.87,
+      "actual_y": 2392.38,
+      "error_m": 654.5
+    },
+    {
+      "ue_id": "43",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 1934.84,
+      "actual_y": 1463.09,
+      "error_m": 714.4
+    },
+    {
+      "ue_id": "44",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 1746.57,
+      "actual_y": 2145.2,
+      "error_m": 792.3
+    },
+    {
+      "ue_id": "45",
+      "estimated_x": 2300.0,
+      "estimated_y": 1900.0,
+      "actual_x": 2154.83,
+      "actual_y": 2987.14,
+      "error_m": 1096.8
+    },
+    {
+      "ue_id": "46",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 2186.95,
+      "actual_y": 1991.12,
+      "error_m": 326.0
+    },
+    {
+      "ue_id": "47",
+      "estimated_x": 2500.0,
+      "estimated_y": 1900.0,
+      "actual_x": 1554.7,
+      "actual_y": 1660.4,
+      "error_m": 975.2
+    },
+    {
+      "ue_id": "48",
+      "estimated_x": 2500.0,
+      "estimated_y": 1934.0,
+      "actual_x": 957.163,
+      "actual_y": 1951.17,
+      "error_m": 1542.9
+    },
+    {
+      "ue_id": "49",
+      "estimated_x": 2500.0,
+      "estimated_y": 1866.0,
+      "actual_x": 1064.1,
+      "actual_y": 1669.09,
+      "error_m": 1449.3
+    }
+  ],
+  "parse_failures": []
+}
